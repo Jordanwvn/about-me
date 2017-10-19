@@ -117,3 +117,5 @@ alert('Good guessing! All of the possible answers were Jazz, Rock, Classical, an
 
 //ends the quiz and congratulates the user on how many questions they got right
 alert('Congratulations, ' + user + ', on getting ' + correct + ' correct answers!');
+
+//comment
